@@ -1,0 +1,131 @@
+[INIT] Training Attention Model on cuda for 100 epochs
+Epoch 001/100 | Train Loss: 0.7392 | Val Loss: 0.7368 | Val F1: 0.5664 | Time: 0.01 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 002/100 | Train Loss: 0.7381 | Val Loss: 0.7376 | Val F1: 0.5664 | Time: 0.01 min
+[EarlyStopping] No improvement (1/10)
+Epoch 003/100 | Train Loss: 0.7371 | Val Loss: 0.7370 | Val F1: 0.4645 | Time: 0.01 min
+[EarlyStopping] No improvement (2/10)
+Epoch 004/100 | Train Loss: 0.7364 | Val Loss: 0.7365 | Val F1: 0.5664 | Time: 0.01 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 005/100 | Train Loss: 0.7370 | Val Loss: 0.7365 | Val F1: 0.5664 | Time: 0.01 min
+[EarlyStopping] No improvement (1/10)
+Epoch 006/100 | Train Loss: 0.7368 | Val Loss: 0.7374 | Val F1: 0.4547 | Time: 0.01 min
+[EarlyStopping] No improvement (2/10)
+Epoch 007/100 | Train Loss: 0.7365 | Val Loss: 0.7370 | Val F1: 0.5337 | Time: 0.01 min
+[EarlyStopping] No improvement (3/10)
+Epoch 008/100 | Train Loss: 0.7360 | Val Loss: 0.7376 | Val F1: 0.4547 | Time: 0.01 min
+[EarlyStopping] No improvement (4/10)
+Epoch 009/100 | Train Loss: 0.7354 | Val Loss: 0.7372 | Val F1: 0.4547 | Time: 0.01 min
+[EarlyStopping] No improvement (5/10)
+Epoch 010/100 | Train Loss: 0.7361 | Val Loss: 0.7367 | Val F1: 0.5664 | Time: 0.01 min
+[EarlyStopping] No improvement (6/10)
+Epoch 011/100 | Train Loss: 0.7364 | Val Loss: 0.7369 | Val F1: 0.5664 | Time: 0.01 min
+[EarlyStopping] No improvement (7/10)
+Epoch 012/100 | Train Loss: 0.7348 | Val Loss: 0.7369 | Val F1: 0.5591 | Time: 0.01 min
+[EarlyStopping] No improvement (8/10)
+Epoch 013/100 | Train Loss: 0.7364 | Val Loss: 0.7366 | Val F1: 0.4547 | Time: 0.01 min
+[EarlyStopping] No improvement (9/10)
+Epoch 014/100 | Train Loss: 0.7358 | Val Loss: 0.7366 | Val F1: 0.5664 | Time: 0.01 min
+[EarlyStopping] No improvement (10/10)
+[STOP] Early stopping triggered.
+[DONE] Training complete in 0.14 min
+[INIT] Training Attention Model on cuda for 100 epochs
+[INIT] Training Attention Model on cuda for 100 epochs
+[INIT] Training Attention Model on cuda for 100 epochs
+[INIT] Training Attention Model on cuda for 100 epochs
+[INIT] Training Attention Model on cuda for 100 epochs
+Epoch 001/100 | Train Loss: 0.5129 | Val Loss: 0.5022 | Val F1: 0.1440 | Time: 0.29 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+[INIT] Training Attention Model on cuda for 100 epochs
+Epoch 001/100 | Train Loss: 0.5130 | Val Loss: 0.5014 | Val F1: 0.1440 | Time: 0.29 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 002/100 | Train Loss: 0.5074 | Val Loss: 0.5024 | Val F1: 0.1440 | Time: 0.30 min
+[EarlyStopping] No improvement (1/15)
+Epoch 003/100 | Train Loss: 0.5066 | Val Loss: 0.5023 | Val F1: 0.1440 | Time: 0.30 min
+[EarlyStopping] No improvement (2/15)
+Epoch 004/100 | Train Loss: 0.5059 | Val Loss: 0.5015 | Val F1: 0.1433 | Time: 0.30 min
+[EarlyStopping] No improvement (3/15)
+Epoch 005/100 | Train Loss: 0.5058 | Val Loss: 0.5011 | Val F1: 0.1440 | Time: 0.30 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 006/100 | Train Loss: 0.5050 | Val Loss: 0.5009 | Val F1: 0.1436 | Time: 0.30 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 007/100 | Train Loss: 0.5047 | Val Loss: 0.5014 | Val F1: 0.1434 | Time: 0.30 min
+[EarlyStopping] No improvement (1/15)
+Epoch 008/100 | Train Loss: 0.5048 | Val Loss: 0.5008 | Val F1: 0.1430 | Time: 0.30 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 009/100 | Train Loss: 0.5047 | Val Loss: 0.5006 | Val F1: 0.1398 | Time: 0.29 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 010/100 | Train Loss: 0.5040 | Val Loss: 0.5005 | Val F1: 0.1361 | Time: 0.30 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 011/100 | Train Loss: 0.5037 | Val Loss: 0.5011 | Val F1: 0.1354 | Time: 0.30 min
+[EarlyStopping] No improvement (1/15)
+Epoch 012/100 | Train Loss: 0.5037 | Val Loss: 0.5007 | Val F1: 0.1366 | Time: 0.29 min
+[EarlyStopping] No improvement (2/15)
+Epoch 013/100 | Train Loss: 0.5042 | Val Loss: 0.5008 | Val F1: 0.1248 | Time: 0.29 min
+[EarlyStopping] No improvement (3/15)
+Epoch 014/100 | Train Loss: 0.5036 | Val Loss: 0.5014 | Val F1: 0.1197 | Time: 0.28 min
+[EarlyStopping] No improvement (4/15)
+Epoch 015/100 | Train Loss: 0.5031 | Val Loss: 0.5003 | Val F1: 0.1299 | Time: 0.28 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 016/100 | Train Loss: 0.5031 | Val Loss: 0.5010 | Val F1: 0.1358 | Time: 0.28 min
+[EarlyStopping] No improvement (1/15)
+Epoch 017/100 | Train Loss: 0.5031 | Val Loss: 0.5001 | Val F1: 0.1311 | Time: 0.28 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 018/100 | Train Loss: 0.5028 | Val Loss: 0.5001 | Val F1: 0.1335 | Time: 0.29 min
+[EarlyStopping] No improvement (1/15)
+Epoch 019/100 | Train Loss: 0.5028 | Val Loss: 0.5002 | Val F1: 0.1311 | Time: 0.29 min
+[EarlyStopping] No improvement (2/15)
+Epoch 020/100 | Train Loss: 0.5026 | Val Loss: 0.4999 | Val F1: 0.1378 | Time: 0.30 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 021/100 | Train Loss: 0.5025 | Val Loss: 0.5001 | Val F1: 0.1315 | Time: 0.29 min
+[EarlyStopping] No improvement (1/15)
+Epoch 022/100 | Train Loss: 0.5024 | Val Loss: 0.5001 | Val F1: 0.1332 | Time: 0.28 min
+[EarlyStopping] No improvement (2/15)
+Epoch 023/100 | Train Loss: 0.5024 | Val Loss: 0.5001 | Val F1: 0.1209 | Time: 0.30 min
+[EarlyStopping] No improvement (3/15)
+Epoch 024/100 | Train Loss: 0.5022 | Val Loss: 0.5002 | Val F1: 0.1258 | Time: 0.30 min
+[EarlyStopping] No improvement (4/15)
+Epoch 025/100 | Train Loss: 0.5018 | Val Loss: 0.5000 | Val F1: 0.1305 | Time: 0.29 min
+[EarlyStopping] No improvement (5/15)
+Epoch 026/100 | Train Loss: 0.5023 | Val Loss: 0.5004 | Val F1: 0.1219 | Time: 0.30 min
+[EarlyStopping] No improvement (6/15)
+Epoch 027/100 | Train Loss: 0.5021 | Val Loss: 0.5006 | Val F1: 0.1288 | Time: 0.30 min
+[EarlyStopping] No improvement (7/15)
+Epoch 028/100 | Train Loss: 0.5017 | Val Loss: 0.5003 | Val F1: 0.1175 | Time: 0.30 min
+[EarlyStopping] No improvement (8/15)
+Epoch 029/100 | Train Loss: 0.5016 | Val Loss: 0.4997 | Val F1: 0.1305 | Time: 0.30 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 030/100 | Train Loss: 0.5018 | Val Loss: 0.4997 | Val F1: 0.1265 | Time: 0.30 min
+[CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints_attention_models/best_model_attention.pth
+Epoch 031/100 | Train Loss: 0.5016 | Val Loss: 0.5002 | Val F1: 0.1246 | Time: 0.30 min
+[EarlyStopping] No improvement (1/15)
+Epoch 032/100 | Train Loss: 0.5013 | Val Loss: 0.5002 | Val F1: 0.1211 | Time: 0.30 min
+[EarlyStopping] No improvement (2/15)
+Epoch 033/100 | Train Loss: 0.5014 | Val Loss: 0.5009 | Val F1: 0.1136 | Time: 0.30 min
+[EarlyStopping] No improvement (3/15)
+Epoch 034/100 | Train Loss: 0.5016 | Val Loss: 0.5000 | Val F1: 0.1241 | Time: 0.30 min
+[EarlyStopping] No improvement (4/15)
+Epoch 035/100 | Train Loss: 0.5014 | Val Loss: 0.5006 | Val F1: 0.1216 | Time: 0.30 min
+[EarlyStopping] No improvement (5/15)
+Epoch 036/100 | Train Loss: 0.5015 | Val Loss: 0.5002 | Val F1: 0.1175 | Time: 0.30 min
+[EarlyStopping] No improvement (6/15)
+Epoch 037/100 | Train Loss: 0.5011 | Val Loss: 0.4999 | Val F1: 0.1228 | Time: 0.30 min
+[EarlyStopping] No improvement (7/15)
+Epoch 038/100 | Train Loss: 0.5013 | Val Loss: 0.5000 | Val F1: 0.1205 | Time: 0.30 min
+[EarlyStopping] No improvement (8/15)
+Epoch 039/100 | Train Loss: 0.5010 | Val Loss: 0.5001 | Val F1: 0.1229 | Time: 0.30 min
+[EarlyStopping] No improvement (9/15)
+Epoch 040/100 | Train Loss: 0.5014 | Val Loss: 0.5000 | Val F1: 0.1220 | Time: 0.30 min
+[EarlyStopping] No improvement (10/15)
+Epoch 041/100 | Train Loss: 0.5008 | Val Loss: 0.5002 | Val F1: 0.1192 | Time: 0.30 min
+[EarlyStopping] No improvement (11/15)
+Epoch 042/100 | Train Loss: 0.5009 | Val Loss: 0.5001 | Val F1: 0.1268 | Time: 0.30 min
+[EarlyStopping] No improvement (12/15)
+Epoch 043/100 | Train Loss: 0.5013 | Val Loss: 0.4999 | Val F1: 0.1283 | Time: 0.30 min
+[EarlyStopping] No improvement (13/15)
+Epoch 044/100 | Train Loss: 0.5007 | Val Loss: 0.4998 | Val F1: 0.1223 | Time: 0.30 min
+[EarlyStopping] No improvement (14/15)
+Epoch 045/100 | Train Loss: 0.5010 | Val Loss: 0.5001 | Val F1: 0.1237 | Time: 0.30 min
+[EarlyStopping] No improvement (15/15)
+[STOP] Early stopping triggered.
+[DONE] Training complete in 13.39 min

@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+       block       0.46      0.01      0.02      1796
+     prolong       0.00      0.00      0.00      1282
+    soundrep       0.22      0.01      0.02       842
+     wordrep       0.20      0.01      0.03       693
+interjection       0.40      0.01      0.03      1448
+  no_stutter       0.76      0.99      0.86      3207
+
+   micro avg       0.74      0.35      0.47      9268
+   macro avg       0.34      0.17      0.16      9268
+weighted avg       0.45      0.35      0.31      9268
+ samples avg       0.76      0.44      0.53      9268

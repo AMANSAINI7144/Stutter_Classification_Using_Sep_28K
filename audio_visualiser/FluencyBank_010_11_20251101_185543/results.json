@@ -1,0 +1,13 @@
+{
+  "wav_copy": "FluencyBank_010_11.wav",
+  "sr": 16000,
+  "probs": {
+    "label_block": 0.20851245522499084,
+    "label_prolong": 0.16611525416374207,
+    "label_soundrep": 0.12742167711257935,
+    "label_wordrep": 0.13236382603645325,
+    "label_interjection": 0.24956047534942627,
+    "label_no_stutter": 0.5417431592941284
+  },
+  "saved_at": "2025-11-01T18:55:47.538079"
+}

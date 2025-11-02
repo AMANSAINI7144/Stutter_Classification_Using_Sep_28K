@@ -1,0 +1,15 @@
+{
+  "wav": "FluencyBank_010_11.wav",
+  "n_segments": 3,
+  "window_sec": 2.0,
+  "hop_sec": 0.5,
+  "threshold": 0.3,
+  "labels": [
+    "label_block",
+    "label_prolong",
+    "label_soundrep",
+    "label_wordrep",
+    "label_interjection",
+    "label_no_stutter"
+  ]
+}

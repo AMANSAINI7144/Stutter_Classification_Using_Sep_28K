@@ -1,0 +1,8 @@
+{
+  "model": "CRNN_Attention",
+  "n_samples": 4214,
+  "macro_precision": 0.36655592469545956,
+  "macro_recall": 1.0,
+  "macro_f1": 0.5092498263002497,
+  "subset_accuracy": 0.00047460844803037496
+}

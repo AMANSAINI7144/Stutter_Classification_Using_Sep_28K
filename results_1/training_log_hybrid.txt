@@ -1,0 +1,73 @@
+[INIT] Starting training on cuda, epochs=100, batch=32
+Epoch 001/100 | Train Loss: 0.5321 | Val Loss: 0.5188 | Val F1: 0.1435 | Time: 0.17 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model_hybrid.pth
+[INFO] ✅ New best model saved (Val Loss=0.5188)
+Epoch 002/100 | Train Loss: 0.5249 | Val Loss: 0.5184 | Val F1: 0.1427 | Time: 0.14 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model_hybrid.pth
+[INFO] ✅ New best model saved (Val Loss=0.5184)
+Epoch 003/100 | Train Loss: 0.5224 | Val Loss: 0.5183 | Val F1: 0.1403 | Time: 0.14 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model_hybrid.pth
+[INFO] ✅ New best model saved (Val Loss=0.5183)
+Epoch 004/100 | Train Loss: 0.5219 | Val Loss: 0.5178 | Val F1: 0.1270 | Time: 0.14 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model_hybrid.pth
+[INFO] ✅ New best model saved (Val Loss=0.5178)
+Epoch 005/100 | Train Loss: 0.5212 | Val Loss: 0.5179 | Val F1: 0.1195 | Time: 0.16 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (1/10)
+Epoch 006/100 | Train Loss: 0.5204 | Val Loss: 0.5175 | Val F1: 0.1279 | Time: 0.17 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model_hybrid.pth
+[INFO] ✅ New best model saved (Val Loss=0.5175)
+Epoch 007/100 | Train Loss: 0.5201 | Val Loss: 0.5177 | Val F1: 0.1383 | Time: 0.16 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (1/10)
+Epoch 008/100 | Train Loss: 0.5198 | Val Loss: 0.5177 | Val F1: 0.1106 | Time: 0.16 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (2/10)
+Epoch 009/100 | Train Loss: 0.5193 | Val Loss: 0.5177 | Val F1: 0.1321 | Time: 0.17 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (3/10)
+Epoch 010/100 | Train Loss: 0.5194 | Val Loss: 0.5182 | Val F1: 0.1330 | Time: 0.15 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (4/10)
+Epoch 011/100 | Train Loss: 0.5188 | Val Loss: 0.5172 | Val F1: 0.1174 | Time: 0.17 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model_hybrid.pth
+[INFO] ✅ New best model saved (Val Loss=0.5172)
+Epoch 012/100 | Train Loss: 0.5184 | Val Loss: 0.5175 | Val F1: 0.1269 | Time: 0.15 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (1/10)
+Epoch 013/100 | Train Loss: 0.5181 | Val Loss: 0.5177 | Val F1: 0.1245 | Time: 0.15 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (2/10)
+Epoch 014/100 | Train Loss: 0.5182 | Val Loss: 0.5173 | Val F1: 0.1158 | Time: 0.16 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (3/10)
+Epoch 015/100 | Train Loss: 0.5180 | Val Loss: 0.5181 | Val F1: 0.1139 | Time: 0.15 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (4/10)
+Epoch 016/100 | Train Loss: 0.5176 | Val Loss: 0.5174 | Val F1: 0.1260 | Time: 0.16 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (5/10)
+Epoch 017/100 | Train Loss: 0.5175 | Val Loss: 0.5173 | Val F1: 0.1172 | Time: 0.15 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (6/10)
+Epoch 018/100 | Train Loss: 0.5175 | Val Loss: 0.5177 | Val F1: 0.1263 | Time: 0.16 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (7/10)
+Epoch 019/100 | Train Loss: 0.5171 | Val Loss: 0.5174 | Val F1: 0.1260 | Time: 0.15 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (8/10)
+Epoch 020/100 | Train Loss: 0.5171 | Val Loss: 0.5174 | Val F1: 0.1199 | Time: 0.15 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (9/10)
+Epoch 021/100 | Train Loss: 0.5173 | Val Loss: 0.5174 | Val F1: 0.1209 | Time: 0.16 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/last_epoch_hybrid.pth
+[EarlyStopping] No improvement (10/10)
+[STOP] Early stopping triggered.
+[DONE] Training complete.
+[INFO] Loaded pos_weight from results/experiments/label_diagnostics.csv: [1.357407, 2.301237, 4.026215, 5.104482, 1.92087, 0.320142]
+[INIT] Starting training on cuda, epochs=1, batch=32
+DEBUG: model outputs range (first batch): min=-0.2346, max=0.3001
+Epoch 001/1 | Train Loss: 0.9433 | Val Loss: 0.9429 | Val F1: 0.2416 | Time: 1.22 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model_hybrid.pth
+[INFO] ✅ New best model saved (Val Loss=0.9429)
+[DONE] Training complete.

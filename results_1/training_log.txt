@@ -1,0 +1,10 @@
+[INIT] Starting training on cuda, epochs=100, batch=32
+Epoch 001/100 | Train Loss: -362.3223 | Val Loss: -1155.7372 | Val F1: 0.1911 | Time: 0.14 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model.pth
+[INFO] ✅ New best model saved (Val Loss=-1155.7372)
+Epoch 002/100 | Train Loss: -2599.6771 | Val Loss: -4528.5132 | Val F1: 0.2217 | Time: 0.14 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model.pth
+[INFO] ✅ New best model saved (Val Loss=-4528.5132)
+Epoch 003/100 | Train Loss: -6731.6971 | Val Loss: -9618.2337 | Val F1: 0.3626 | Time: 0.14 min
+[CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/best_model.pth
+[INFO] ✅ New best model saved (Val Loss=-9618.2337)

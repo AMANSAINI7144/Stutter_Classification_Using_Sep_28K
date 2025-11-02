@@ -1,0 +1,46 @@
+[2025-11-01 02:09:51] [INIT] Device=cuda | epochs=30 | batch=32
+[2025-11-01 02:09:51] [INFO] Using WeightedRandomSampler (softened)
+[2025-11-01 02:09:52] [INFO] Using fallback pos_weight: [1.357, 2.301, 4.026, 5.104, 1.921, 0.32]
+[2025-11-01 02:09:52] [INFO] Using capped pos_weight: [1.357, 2.301, 3.0, 3.0, 1.921, 0.32]
+[2025-11-01 02:11:09] Epoch 001/30 | Train Loss: 0.9371 | Val Loss: 0.8817 | Val F1: 0.4467 | Time: 1.26 min
+[2025-11-01 02:11:09] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/best_model_hybrid.pth
+[2025-11-01 02:12:15] Epoch 002/30 | Train Loss: 0.9384 | Val Loss: 0.8807 | Val F1: 0.4537 | Time: 1.11 min
+[2025-11-01 02:12:16] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/best_model_hybrid.pth
+[2025-11-01 02:13:20] Epoch 003/30 | Train Loss: 0.9382 | Val Loss: 0.8849 | Val F1: 0.3583 | Time: 1.07 min
+[2025-11-01 02:13:20] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_003_hybrid.pth
+[2025-11-01 02:13:20] [EarlyStopping] No improvement (1/5)
+[2025-11-01 02:14:33] Epoch 004/30 | Train Loss: 0.9386 | Val Loss: 0.8810 | Val F1: 0.4268 | Time: 1.22 min
+[2025-11-01 02:14:33] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_004_hybrid.pth
+[2025-11-01 02:14:33] [EarlyStopping] No improvement (2/5)
+[2025-11-01 02:15:54] Epoch 005/30 | Train Loss: 0.9360 | Val Loss: 0.8870 | Val F1: 0.4009 | Time: 1.34 min
+[2025-11-01 02:15:54] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_005_hybrid.pth
+[2025-11-01 02:15:54] [EarlyStopping] No improvement (3/5)
+[2025-11-01 02:17:02] Epoch 006/30 | Train Loss: 0.9320 | Val Loss: 0.8786 | Val F1: 0.4279 | Time: 1.14 min
+[2025-11-01 02:17:02] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/best_model_hybrid.pth
+[2025-11-01 02:18:09] Epoch 007/30 | Train Loss: 0.9323 | Val Loss: 0.8792 | Val F1: 0.4262 | Time: 1.11 min
+[2025-11-01 02:18:09] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_007_hybrid.pth
+[2025-11-01 02:18:09] [EarlyStopping] No improvement (1/5)
+[2025-11-01 02:19:17] Epoch 008/30 | Train Loss: 0.9374 | Val Loss: 0.8784 | Val F1: 0.4174 | Time: 1.12 min
+[2025-11-01 02:19:17] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/best_model_hybrid.pth
+[2025-11-01 02:20:25] Epoch 009/30 | Train Loss: 0.9331 | Val Loss: 0.8815 | Val F1: 0.4365 | Time: 1.14 min
+[2025-11-01 02:20:25] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_009_hybrid.pth
+[2025-11-01 02:20:25] [EarlyStopping] No improvement (1/5)
+[2025-11-01 02:21:32] Epoch 010/30 | Train Loss: 0.9335 | Val Loss: 0.8763 | Val F1: 0.4334 | Time: 1.12 min
+[2025-11-01 02:21:33] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/best_model_hybrid.pth
+[2025-11-01 02:22:46] Epoch 011/30 | Train Loss: 0.9356 | Val Loss: 0.8801 | Val F1: 0.4549 | Time: 1.23 min
+[2025-11-01 02:22:46] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_011_hybrid.pth
+[2025-11-01 02:22:46] [EarlyStopping] No improvement (1/5)
+[2025-11-01 02:24:03] Epoch 012/30 | Train Loss: 0.9323 | Val Loss: 0.8846 | Val F1: 0.4431 | Time: 1.28 min
+[2025-11-01 02:24:03] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_012_hybrid.pth
+[2025-11-01 02:24:03] [EarlyStopping] No improvement (2/5)
+[2025-11-01 02:25:11] Epoch 013/30 | Train Loss: 0.9279 | Val Loss: 0.8810 | Val F1: 0.4466 | Time: 1.12 min
+[2025-11-01 02:25:11] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_013_hybrid.pth
+[2025-11-01 02:25:11] [EarlyStopping] No improvement (3/5)
+[2025-11-01 02:26:21] Epoch 014/30 | Train Loss: 0.9304 | Val Loss: 0.8850 | Val F1: 0.4286 | Time: 1.17 min
+[2025-11-01 02:26:21] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_014_hybrid.pth
+[2025-11-01 02:26:21] [EarlyStopping] No improvement (4/5)
+[2025-11-01 02:27:29] Epoch 015/30 | Train Loss: 0.9269 | Val Loss: 0.8790 | Val F1: 0.4440 | Time: 1.13 min
+[2025-11-01 02:27:29] [CHECKPOINT] Saved -> /home/aman2/projects/MPC_Project/models/checkpoints/hybrid_expt1/epoch_015_hybrid.pth
+[2025-11-01 02:27:29] [EarlyStopping] No improvement (5/5)
+[2025-11-01 02:27:29] [STOP] Early stopping triggered.
+[2025-11-01 02:27:29] [DONE] Training complete.

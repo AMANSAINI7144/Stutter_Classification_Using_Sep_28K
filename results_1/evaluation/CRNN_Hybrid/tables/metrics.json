@@ -1,0 +1,8 @@
+{
+  "model": "CRNN_Hybrid",
+  "n_samples": 4214,
+  "macro_precision": 0.34013448607108554,
+  "macro_recall": 0.17365860669790087,
+  "macro_f1": 0.1604645750066999,
+  "subset_accuracy": 0.21333649738965355
+}

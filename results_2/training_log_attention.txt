@@ -1,0 +1,22 @@
+[2025-11-01 02:27:36] [INIT] Device=cuda | epochs=30 | batch=32
+[2025-11-01 02:27:36] [INFO] Using WeightedRandomSampler (softened)
+[2025-11-01 02:27:38] [INFO] Using fallback pos_weight: [1.357, 2.301, 4.026, 5.104, 1.921, 0.32]
+[2025-11-01 02:27:38] [INFO] Using capped pos_weight: [1.357, 2.301, 3.0, 3.0, 1.921, 0.32]
+[2025-11-01 02:29:43] Epoch 001/30 | Train Loss: 0.9380 | Val Loss: 0.8852 | Val F1: 0.5093 | Time: 2.05 min
+[2025-11-01 02:29:43] [CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints/attention_expt1/best_model_attention.pth
+[2025-11-01 02:31:44] Epoch 002/30 | Train Loss: 0.9383 | Val Loss: 0.8864 | Val F1: 0.5093 | Time: 2.02 min
+[2025-11-01 02:31:44] [EarlyStopping] No improvement (1/5)
+[2025-11-01 02:33:42] Epoch 003/30 | Train Loss: 0.9398 | Val Loss: 0.8851 | Val F1: 0.5093 | Time: 1.98 min
+[2025-11-01 02:33:43] [CHECKPOINT] ✅ New best model saved -> /home/aman2/projects/MPC_Project/models/checkpoints/attention_expt1/best_model_attention.pth
+[2025-11-01 02:35:46] Epoch 004/30 | Train Loss: 0.9383 | Val Loss: 0.8857 | Val F1: 0.5093 | Time: 2.06 min
+[2025-11-01 02:35:46] [EarlyStopping] No improvement (1/5)
+[2025-11-01 02:37:51] Epoch 005/30 | Train Loss: 0.9348 | Val Loss: 0.8872 | Val F1: 0.5093 | Time: 2.07 min
+[2025-11-01 02:37:51] [EarlyStopping] No improvement (2/5)
+[2025-11-01 02:39:53] Epoch 006/30 | Train Loss: 0.9392 | Val Loss: 0.8877 | Val F1: 0.5093 | Time: 2.03 min
+[2025-11-01 02:39:53] [EarlyStopping] No improvement (3/5)
+[2025-11-01 02:41:59] Epoch 007/30 | Train Loss: 0.9367 | Val Loss: 0.8868 | Val F1: 0.5093 | Time: 2.10 min
+[2025-11-01 02:41:59] [EarlyStopping] No improvement (4/5)
+[2025-11-01 02:44:07] Epoch 008/30 | Train Loss: 0.9392 | Val Loss: 0.8880 | Val F1: 0.5093 | Time: 2.13 min
+[2025-11-01 02:44:07] [EarlyStopping] No improvement (5/5)
+[2025-11-01 02:44:07] [STOP] Early stopping triggered.
+[2025-11-01 02:44:07] [DONE] Training complete.

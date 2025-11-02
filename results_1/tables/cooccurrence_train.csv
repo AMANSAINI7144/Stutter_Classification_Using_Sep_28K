@@ -1,0 +1,7 @@
+,label_block,label_prolong,label_soundrep,label_wordrep,label_interjection,label_no_stutter
+label_block,8377,2514,2373,1330,2829,5455
+label_prolong,2514,5982,1180,642,2396,4028
+label_soundrep,2373,1180,3929,1051,1334,1350
+label_wordrep,1330,642,1051,3235,1531,1105
+label_interjection,2829,2396,1334,1531,6761,5044
+label_no_stutter,5455,4028,1350,1105,5044,14959

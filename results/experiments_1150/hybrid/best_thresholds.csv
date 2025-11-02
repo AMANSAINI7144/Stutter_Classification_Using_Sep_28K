@@ -1,0 +1,7 @@
+label,prob_col,true_col,best_threshold,best_f1
+block,prob_block,true_block,0.05,0.5976705490848586
+prolong,prob_prolong,true_prolong,0.05,0.46652110625909754
+soundrep,prob_soundrep,true_soundrep,0.05,0.33306962025316456
+wordrep,prob_wordrep,true_wordrep,0.05,0.28245363766048504
+interjection,prob_interjection,true_interjection,0.05,0.5114800423878488
+no_stutter,prob_no_stutter,true_no_stutter,0.05,0.8643040021560436

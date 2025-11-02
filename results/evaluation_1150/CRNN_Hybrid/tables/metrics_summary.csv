@@ -1,0 +1,2 @@
+model,n_samples,macro_precision,macro_recall,macro_f1,subset_accuracy
+CRNN_Hybrid,4214,0.24071466707781677,0.7602704108164327,0.35405679893325215,0.0037968675842429997

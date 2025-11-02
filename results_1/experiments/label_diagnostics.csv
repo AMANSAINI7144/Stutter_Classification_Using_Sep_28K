@@ -1,0 +1,7 @@
+label,pos,neg,pos_frac,pos_weight
+label_block,8377,11371,0.424195,1.357407
+label_prolong,5982,13766,0.302917,2.301237
+label_soundrep,3929,15819,0.198957,4.026215
+label_wordrep,3235,16513,0.163814,5.104482
+label_interjection,6761,12987,0.342364,1.92087
+label_no_stutter,14959,4789,0.757494,0.320142
